@@ -1,7 +1,6 @@
-# Uploading temperature sensor data in Thing Speak cloud
-### Name : M. Hariharan
-### Register No: 24900770
-
+## NAME : Hariharan M
+## REG NO : 24900770
+# Experiment 3 Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
